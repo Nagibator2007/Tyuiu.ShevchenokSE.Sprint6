@@ -16,4 +16,10 @@
     <Folder Include="image\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Compile Update="FormMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+
 </Project>
