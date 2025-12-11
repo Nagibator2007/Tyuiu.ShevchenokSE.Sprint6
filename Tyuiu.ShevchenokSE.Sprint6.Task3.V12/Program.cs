@@ -1,4 +1,4 @@
-namespace Tyuiu.ShevchenokSE.Sprint6.Task1.V21
+namespace Tyuiu.ShevchenokSE.Sprint6.Task3.V12
 {
     internal static class Program
     {
