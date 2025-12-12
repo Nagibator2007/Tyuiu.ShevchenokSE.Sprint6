@@ -28,5 +28,15 @@ namespace Tyuiu.ShevchenokSE.Sprint6.Task0.V29
         {
 
         }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void textBoxoutput_SSE_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
