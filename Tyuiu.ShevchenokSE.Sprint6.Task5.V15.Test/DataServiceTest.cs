@@ -7,7 +7,7 @@ namespace Tyuiu.ShevchenokSE.Sprint6.Task5.V15.Test
         [TestMethod]
         public void TestMethod1()
         {
-            string path = @"C:\Users\User\source\repos\Tyuiu.ShevchenokSE.Sprint6\DataSprint6\InPutDataFileTask5V15.txt";
+            string path = @"C:\Users\sergejbabidzonov\source\repos\Tyuiu.ShevchenokSE.Sprint6\DataSprint6\InPutDataFileTask5V15.txt";
             FileInfo fileinfo = new FileInfo(path);
             bool fileExists = fileinfo.Exists;
             bool wait = true;
